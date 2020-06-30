@@ -2,4 +2,10 @@
 The log of my #100DaysOfCode challenge. Started on [June 29, Monday, 2020].
 # log
 # R1D1
+Round 1 Day 1... #100DaysOfCode
+
 Today I solved the HackerRank Python Practice Problem. And Today I finally got a Gold Badge in Python. You can check it here [https://www.hackerrank.com/iamsuryakant_].
+# R1D2
+Round 1 Day 2... #100DaysOfCode
+
+Today I tried to solve HackerRank Practice Problem [Alphabet Rangoli] & many more Problems in python. If you want to try Alphabet Rangoli Problem you can check it here [https://www.hackerrank.com/challenges/alphabet-rangoli/problem] 
