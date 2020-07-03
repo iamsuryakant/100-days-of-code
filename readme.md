@@ -1,10 +1,15 @@
 # #100DaysOfCode Log - Round 1 - [Suryakant Thakur]
 The log of my #100DaysOfCode challenge. Started on [June 29, Monday, 2020].
 # log
+# R1D5
+Round 1 Day 5... #100DaysOfCode
+
+Today I revise HTML and CSS from GeeksforGeeks that will help me to learn Javascript & Angular JS.
+
 # R1D4
 Round 1 Day 4... #100DaysOfCode
 
-Today I started to learning Javascript & Angular JS.
+Today I started to learning Javascript & Angular JS from GeeksforGeeks.
 
 # R1D3
 Round 1 Day 3... #100DaysOfCode
