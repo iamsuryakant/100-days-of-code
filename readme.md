@@ -1,6 +1,12 @@
 # #100DaysOfCode Log - Round 1 - [Suryakant Thakur]
 The log of my #100DaysOfCode challenge. Started on [June 29, Monday, 2020].
 # log
+# R1D10
+Round 1 Day 10... #100DaysOfCode
+
+Today I learn Entities,article tag, aside tag, bdi tag Using HTML. And Practice problem-Solving & JS Problems. Codes are available at: [https://github.com/iamsuryakant/100-days-of-code].
+
+
 # R1D9
 Round 1 Day 9... #100DaysOfCode
 
