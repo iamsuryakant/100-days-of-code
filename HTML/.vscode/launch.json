@@ -16,7 +16,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "E:\\100-days-of-code\\100-days-of-code\\HTML\\canvas basics.html",
+            "url": "E:\\100-days-of-code\\100-days-of-code\\HTML\\samp tag.html",
             "webRoot": "${workspaceFolder}"
         }
     ]
