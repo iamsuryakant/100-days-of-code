@@ -6,6 +6,7 @@ public class varaiblest {
         System.out.println(driver);
         int x = driver.length();
         System.out.println(x);
+        //this is for testing float value.
         double accurate = 5/2.0;
         System.out.println(accurate);
         double div=5/2;
