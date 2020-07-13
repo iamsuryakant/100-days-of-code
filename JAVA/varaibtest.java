@@ -1,4 +1,4 @@
-public class varaiblest {
+public class varaibtest {
     public static void main(String[] args) {
         String driver;
         driver=("Hamish");
