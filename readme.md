@@ -1,6 +1,11 @@
 # #100DaysOfCode Log - Round 1 - [Suryakant Thakur]
 The log of my #100DaysOfCode challenge. Started on [June 29, Monday, 2020].
 # log
+# R1D15
+Round 1 Day 15... #100DaysOfCode
+
+Today I solve various practice problems of Java and continue learning. Codes are available at: [https://github.com/iamsuryakant/100-days-of-code]
+
 # R1D14
 Round 1 Day 14... #100DaysOfCode
 
