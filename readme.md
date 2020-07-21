@@ -3,6 +3,7 @@ The log of my #100DaysOfCode challenge. Started on [June 29, Monday, 2020].
 # log
 # R1D22
 Round 1 Day 22... #100DaysOfCode
+
 Revision.
 
 # R1D21
