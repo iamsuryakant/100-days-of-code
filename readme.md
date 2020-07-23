@@ -1,6 +1,11 @@
 # #100DaysOfCode Log - Round 1 - [Suryakant Thakur]
 The log of my #100DaysOfCode challenge. Started on [June 29, Monday, 2020].
 # log
+# R1D23
+Round 1 Day 23... #100DaysOfCode
+
+Today learning more about the git and the github from the udemy courses.
+
 # R1D22
 Round 1 Day 22... #100DaysOfCode
 
