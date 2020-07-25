@@ -9,7 +9,7 @@ Today Continue Learing & Practice and start learning about machine learning from
 # R1D24
 Round 1 Day 24... #100DaysOfCode
 
-Today Continue Learing and Practice and try to contribute some open source Projects. Details published later.
+Today Continue Learning and Practice and try to contribute some open source Projects. Details published later.
 
 # R1D23
 Round 1 Day 23... #100DaysOfCode
