@@ -1,6 +1,11 @@
 # #100DaysOfCode Log - Round 1 - [Suryakant Thakur]
 The log of my #100DaysOfCode challenge. Started on [June 29, Monday, 2020].
 # log
+# R1D25
+Round 1 Day 25... #100DaysOfCode
+
+Today Continue Learing & Practice and start learning about machine learning from fb developer and many other sources. links are already present on my twitter account [https://www.twitter.com/iamsuryakant]. [https://www.developercircleresources.com/learningPath/machine-learning]
+
 # R1D24
 Round 1 Day 24... #100DaysOfCode
 
