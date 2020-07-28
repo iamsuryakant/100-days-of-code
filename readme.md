@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [June 29, Monday, 2020].
 # R1D28
 Round 1 Day 28... #100DaysOfCode
 
-Toda
+Today I learn more details in Machine Learning ( Copy of Introduction to dataset and Linear Regression ).
 
 # R1D27
 Round 1 Day 27... #100DaysOfCode
