@@ -1,8 +1,12 @@
 # #100DaysOfCode Log - Round 1 - [Suryakant Thakur]
 The log of my #100DaysOfCode challenge. Started on [June 29, Monday, 2020].
 # log
+# R1D32
+Round 1 Day 31... #100DaysOfCode
+Today just solving few questions of java and Attending webinar on [AR](https://en.wikipedia.org/wiki/Augmented_reality), [VR](https://en.wikipedia.org/wiki/Virtual_reality) & [XR](https://en.wikipedia.org/wiki/X_Reality_(XR)). Where learning about [UNITY](https://unity.com/) and making Games, Offices and contruct the 3D image of any Location .
+
 # R1D31
-Round 1 Day 30... #100DaysOfCode
+Round 1 Day 31... #100DaysOfCode
 
 Today I learn and attend webinar on "Reskilling For Placement Opportunities In Post Covid Era" and Practice various coding problem on Problem-Solving.
 
