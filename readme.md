@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [June 29, Monday, 2020].
 # R1D33
 Round 1 Day 33... #100DaysOfCode
 
-Just step the github [personal-website](https://iamsuryakant.github.io/personal-website) that I forked from the github. Working on building first andriod app. #Coming Soon.
+Just step the github [personal-website](https://iamsuryakant.github.io/personal-website) that I forked from the github. Working on building first android app. #Coming Soon.
 
 # R1D32
 Round 1 Day 32... #100DaysOfCode
