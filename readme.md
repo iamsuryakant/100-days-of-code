@@ -1,6 +1,66 @@
 # #100DaysOfCode Log - Round 1 - [Suryakant Thakur]
 The log of my #100DaysOfCode challenge. Started on [June 29, Monday, 2020].
 # log
+# R1D34
+Round 1 Day 34... #100DaysOfCode
+
+Today Solve the Practice Problem of Java and Problem-Solving.
+
+# R1D33
+Round 1 Day 33... #100DaysOfCode
+
+Just step the github [personal-website](https://iamsuryakant.github.io/personal-website) that I forked from the github. Working on building first android app. #Coming Soon.
+
+# R1D32
+Round 1 Day 32... #100DaysOfCode
+
+Today just solving few questions of java and Attending webinar on [AR](https://en.wikipedia.org/wiki/Augmented_reality), [VR](https://en.wikipedia.org/wiki/Virtual_reality) & [XR](https://en.wikipedia.org/wiki/X_Reality_(XR)). Where learning about [UNITY](https://unity.com/) and making Games, Offices and construct the 3D image of any Location .
+
+# R1D31
+Round 1 Day 31... #100DaysOfCode
+
+Today I learn and attend webinar on "Reskilling For Placement Opportunities In Post Covid Era" and Practice various coding problem on Problem-Solving.
+
+# R1D30
+Round 1 Day 30... #100DaysOfCode
+
+REVISION.
+
+# R1D29
+Round 1 Day 29... #100DaysOfCode
+
+Today I learn unfamiliar facts about COVID-19 and Machine Learning. A 3 days webinar held by my college on machine Learning.
+
+# R1D28
+Round 1 Day 28... #100DaysOfCode
+
+Today I learn more details in Machine Learning ( Copy of Introduction to dataset and Linear Regression ).
+
+# R1D27
+Round 1 Day 27... #100DaysOfCode
+
+REVISION.
+
+# R1D26
+Round 1 Day 26... #100DaysOfCode
+
+REVISION.
+
+# R1D25
+Round 1 Day 25... #100DaysOfCode
+
+Today Continue Learing & Practice and start learning about machine learning from fb developer and many other sources. links are already present on my twitter account [https://www.twitter.com/iamsuryakant]. [https://www.developercircleresources.com/learningPath/machine-learning]
+
+# R1D24
+Round 1 Day 24... #100DaysOfCode
+
+Today Continue Learning and Practice and try to contribute some open source Projects. Details published later.
+
+# R1D23
+Round 1 Day 23... #100DaysOfCode
+
+Today learning more about the git and the github from the udemy courses.
+
 # R1D22
 Round 1 Day 22... #100DaysOfCode
 
