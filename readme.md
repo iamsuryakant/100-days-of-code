@@ -1,6 +1,11 @@
 # #100DaysOfCode Log - Round 1 - [Suryakant Thakur]
 The log of my #100DaysOfCode challenge. Started on [June 29, Monday, 2020].
 # log
+# R1D35
+Round 1 Day 35... #100DaysOfCode
+
+Nothing New for Today.. Revision of Data Structures.
+
 # R1D34
 Round 1 Day 34... #100DaysOfCode
 
