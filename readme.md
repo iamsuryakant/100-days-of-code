@@ -1,6 +1,17 @@
 # #100DaysOfCode Log - Round 1 - [Suryakant Thakur]
 The log of my #100DaysOfCode challenge. Started on [June 29, Monday, 2020].
 # log
+# R1D36
+Round 1 Day 36... #100DaysOfCode
+
+Learning more about Machine Learning
+- Advantages of Machine Learning
+- Future of Machine Learning
+- Applications of Machine Learning 
+- Future of AI & Machine Learning
+
+And Do Practice various Problems.
+ 
 # R1D35
 Round 1 Day 35... #100DaysOfCode
 
