@@ -1,6 +1,11 @@
 # #100DaysOfCode Log - Round 1 - [Suryakant Thakur]
 The log of my #100DaysOfCode challenge. Started on [June 29, Monday, 2020].
 # log
+# R1D38
+Round 1 Day 38.. #100DaysOfCode
+
+Today Again Learning from Github Lab. And Creating a [MARKDOWN-PORTFOLIO](https://iamsuryakant.github.io/markdown-portfolio).
+
 # R1D37
 Round 1 Day 37... #100DaysOfCode
 
