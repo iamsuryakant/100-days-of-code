@@ -1,6 +1,11 @@
 # #100DaysOfCode Log - Round 1 - [Suryakant Thakur]
 The log of my #100DaysOfCode challenge. Started on [June 29, Monday, 2020].
 # log
+# R1D40
+Round 1 Day 40... #100DaysOfCode
+
+Today Learn about **Data Base Management System** (DBMS) and SQL.
+
 # R1D39
 Round 1 Day 39... #100DaysOfCode
 
