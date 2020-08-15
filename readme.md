@@ -1,6 +1,11 @@
 # #100DaysOfCode Log - Round 1 - [Suryakant Thakur]
 The log of my #100DaysOfCode challenge. Started on [June 29, Monday, 2020].
 # log
+# R1D42
+Round 1 Day 42... #100DaysOfCode
+
+Today I solve various practice problems of SQL in APEX Cloud.
+
 # R1D41
 Round 1 Day 41... #100DaysOfCode
 
