@@ -1,6 +1,50 @@
 # #100DaysOfCode Log - Round 1 - [Suryakant Thakur]
 The log of my #100DaysOfCode challenge. Started on [June 29, Monday, 2020].
 # log
+# R1D42
+Round 1 Day 42... #100DaysOfCode
+
+Today I solve various practice problems of SQL in APEX Cloud.
+
+# R1D41
+Round 1 Day 41... #100DaysOfCode
+
+Today I learn about **SQL (Structured Query Language)** and Solve various problem based on create, Alter and Select using SQL in [Apex Cloud](https://apex.oracle.com).
+
+# R1D40
+Round 1 Day 40... #100DaysOfCode
+
+Today Learn about **Data Base Management System** (DBMS) and SQL.
+
+# R1D39
+Round 1 Day 39... #100DaysOfCode
+
+Today Try to creating an application, You can say it a converter, Because it Convert Mile To Km and Vice-versa. Codes are updated by tomorrow in my gitHub account.
+
+# R1D38
+Round 1 Day 38.. #100DaysOfCode
+
+Today Again Learning from Github Lab. And Creating a [MARKDOWN-PORTFOLIO](https://iamsuryakant.github.io/markdown-portfolio).
+
+# R1D37
+Round 1 Day 37... #100DaysOfCode
+
+Today Learning from the github lab. And Practice various command lines in
+ - windows command line
+ - Git Bash
+ - Linux
+And at last but not the least practice coding problems.
+# R1D36
+Round 1 Day 36... #100DaysOfCode
+
+Learning more about Machine Learning
+- Advantages of Machine Learning
+- Future of Machine Learning
+- Applications of Machine Learning 
+- Future of AI & Machine Learning
+
+And Do Practice various Problems.
+ 
 # R1D35
 Round 1 Day 35... #100DaysOfCode
 
