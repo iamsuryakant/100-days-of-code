@@ -4,6 +4,11 @@ The log of my #100DaysOfCode challenge. Started on [June 29, Monday, 2020].
 # R1D46
 Round 1 Day 46... #100DaysOfCode
 
+Created on app Block 1 but working on my main application. And Today and tomorrow there is a revision session. I will revise all the things that I learn in this week.
+
+# R1D46
+Round 1 Day 46... #100DaysOfCode
+
 Started working on my next app.
 
 # R1D45
