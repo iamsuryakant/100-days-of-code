@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="100"
+    tools:context="fr.centralesupelec.galtier.block03.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0px"
+        android:layout_weight="30"
+        android:weightSum="10"
+        android:background="@android:color/holo_blue_bright">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="small"
+            android:id="@+id/button_small"
+            android:background="#979797" />
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="BIG"
+            android:layout_weight="5"
+            android:id="@+id/button_big"
+            android:background="#979797" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0px"
+        android:layout_weight="70"
+        android:background="@drawable/compass">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NORTH"
+            android:id="@+id/button_north"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="47dp"
+            android:background="#979797" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SOUTH"
+            android:id="@+id/button_south"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:background="#979797" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="EAST"
+            android:id="@+id/button_east"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:background="#979797" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="WEST"
+            android:id="@+id/button_west"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:background="#979797" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="CENTER"
+            android:id="@+id/button_center"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:background="#979797" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NE"
+            android:id="@+id/button_ne"
+            android:layout_below="@id/button_north"
+            android:layout_above="@id/button_east"
+            android:layout_toRightOf="@id/button_north"
+            android:layout_toLeftOf="@id/button_east"
+            android:background="#979797" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SE"
+            android:id="@+id/button_se"
+            android:layout_below="@id/button_east"
+            android:layout_above="@id/button_south"
+            android:layout_toRightOf="@id/button_south"
+            android:layout_toLeftOf="@id/button_east"
+            android:background="#979797" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SW"
+            android:id="@+id/button_sw"
+            android:layout_below="@id/button_west"
+            android:layout_above="@id/button_south"
+            android:layout_toRightOf="@id/button_west"
+            android:layout_toLeftOf="@id/button_south"
+            android:background="#979797" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NW"
+            android:id="@+id/button_nw"
+            android:layout_below="@id/button_north"
+            android:layout_above="@id/button_west"
+            android:layout_toRightOf="@id/button_west"
+            android:layout_toLeftOf="@id/button_north"
+            android:background="#979797" />
+
+    </RelativeLayout>
+
+</LinearLayout>
