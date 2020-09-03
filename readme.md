@@ -1,7 +1,7 @@
 # #100DaysOfCode Log - Round 1 - [Suryakant Thakur]
 The log of my #100DaysOfCode challenge. Started on [June 29, Monday, 2020].
 # log
-#R1D54
+# R1D54
 Round 1 Day 54... #100DaysOfCode
 
 Working on project Online Movie Ticket System & Learning Database.
