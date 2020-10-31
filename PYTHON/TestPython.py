@@ -1,2 +1,3 @@
-word = 'perfect, plan , b , rocks’
-print(word.split(', ', 1))
+hrs=input("Enter Hours:")
+rate = float(input("Enter rate:")
+print("Pay: (hrs*Rate)")
