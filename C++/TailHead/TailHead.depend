@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606567391 source:d:\100-days-of-code\100-days-of-code\c++\tailhead\main.c
+	<stdio.h>
+	<stdlib.h>
+
