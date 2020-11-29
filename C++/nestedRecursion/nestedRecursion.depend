@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1606635521 source:d:\100-days-of-code\100-days-of-code\c++\nestedrecursion\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1606636470 source:d:\100-days-of-code\100-days-of-code\c++\nestedrecursion\naturalnumbers.c
+	<stdio.h>
+	<stdlib.h>
+
