@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607610952 source:d:\100-days-of-code\100-days-of-code\c++\paindrome\main.cpp
+	<iostream>
+	<string.h>
+
