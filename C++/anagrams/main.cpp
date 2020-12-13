@@ -1,5 +1,7 @@
 // C++ program to check whether two strings are anagrams
 // of each other
+
+//code credit: https://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -43,3 +45,6 @@ int main()
 
 	return 0;
 }
+
+
+
