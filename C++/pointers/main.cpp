@@ -6,6 +6,7 @@ int main()
 {
     int x = 10;
     int *p;
+    double *q;
 
     p = &x;
 
@@ -14,6 +15,9 @@ int main()
     cout<<p<<endl;
     cout<<&p<<endl;
     cout<<*p<<endl;
+
+    //cout<<sizeof(p);
+    cout<<sizeof(q);
 
     return 0;
 }
