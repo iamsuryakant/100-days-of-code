@@ -1,7 +1,8 @@
-import java.util.*;
+//import java.util.*;
 import java.lang.Math;
+import java.util.Scanner;
 
-class Solution {
+class Solution1 {
     public int reverse(int x) {
         // edge case when number is between (-10,10)
         if (x < 10 && x > -10) {
@@ -33,8 +34,8 @@ class Solution {
     }
 }
 
-class Main0 {
-    public static void main(String snr[]) {
+class Main {
+    public static void main(String args[]) {
         long x;
         Scanner n = new Scanner(System.in);
         System.out.print("Input: x = ");

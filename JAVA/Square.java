@@ -4,7 +4,7 @@ class Square
     public static void main(String args[])
     {
         
-        Scanner sc=new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         int r;
         int i=1;
         System.out.println("Square Root");

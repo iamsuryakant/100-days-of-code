@@ -30,7 +30,7 @@ class MyHash
     }
 }
 
-class GFG
+class MyHash1
 {
 	// Driver method to test Map class 
 	public static void main(String[] args) 
