@@ -75,7 +75,7 @@ int main(){
         cout<<"Frame "<<i<<" ";
         for(j=0;j<m;j++){
             if(a[i][j]==-1)
-                cout<<"H ";
+                cout<<"E ";
                 else
             cout<<a[i][j]<<" ";
         }

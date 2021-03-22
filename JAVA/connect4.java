@@ -165,7 +165,7 @@ public class connect4 {
                 // we need to check if a player won. If not,
                 // we continue, otherwise, we display a message
                 if (board.isWinningPlay()) {
-                    System.out.println(symbol, input);
+                    System.out.println(symbol);
                     return;
                 }
             }
