@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616481951 source:d:\100-days-of-code\100-days-of-code\c++\dfs\main.cpp
+	<iostream>
+	<list>
+
