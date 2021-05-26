@@ -1,42 +1,37 @@
-#include<bits/stdc++.h>
-#include<forward_list>
-#include<list>
+
+// CPP code to illustrate
+// priorit_queue and its
+// various function
+#include <iostream>
+#include <queue>
 using namespace std;
 
-int getSer(int n, int k)
+// Drivers Method
+int main()
 {
-    list <int> l;
 
-    for(int i = 0; i< n; i++)
+    // Creating a priority queue
+    priority_queue<int> pq;
+
+    // Pushing elements into
+    // the priority_queue
+    pq.push(10);
+    pq.push(15);
+    pq.push(5);
+    
+
+    // Displaying th e size of
+    // the queue
+    cout << pq.size() << " ";
+
+    // Displaying the top elements
+    // of the queue
+    cout << pq.top() << " ";
+
+    while (pq.empty() == false)
     {
-        l.push_back(i);
+        cout << pq.top() << " ";
+        pq.pop();
     }
-
-    auto it = l.begin();
-
-    while(l.size()>1)
-    {
-        for(int i = 1; i < k; i++)
-        {
-            it++;
-
-            if(it == l.end())
-            {
-                it = l.begin();
-            }
-        }
-
-        it = l.erase(it);
-
-        if(it == l.end())
-        {
-            it = l.begin();
-        }
-    }
-    return *l.begin();
-}
-//using namespace std;
-int main(){
-
-   cout<<getSer(7, 3);
+    return 0;
 }
