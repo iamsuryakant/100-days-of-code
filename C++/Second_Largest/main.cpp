@@ -11,13 +11,13 @@ int SecondLargest(int arr[],int n)
     {
         if(arr[i]>arr[largest])
         {
-            res = largest;
+            res = arr[largest];
             largest = i;
         }
         else if(arr[i]!=arr[largest])
         {
             if(res==-1 || arr[i]>arr[res])
-                res = i;
+                res = arr[i];
         }
     }
     return res;

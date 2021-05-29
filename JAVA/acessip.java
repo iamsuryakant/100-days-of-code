@@ -16,4 +16,5 @@ public class acessip {
         System.out.println("isAnyLocalAddress : " + add.isAnyLocalAddress());
         System.out.println("isMCGlobal : " + ip.isMCGlobal());
     }
+    
 }
