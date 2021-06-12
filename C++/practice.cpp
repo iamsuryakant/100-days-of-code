@@ -1,42 +1,26 @@
-// A C++ program to put all negative
-// numbers before positive numbers
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
-
-void rearrange(int arr[], int n)
-{
-    int j = 0;
-    for (int i = 0; i < n; i++)
-    {
-        if (arr[i] < 0)
-        {
-            if (i != j)
-                swap(arr[i], arr[j]);
-            j++;
-        }
-    }
-}
-
-// A utility function to print an array
-void printArray(int arr[], int n)
-{
-    for (int i = 0; i < n; i++)
-        printf("%d ", arr[i]);
-}
-
-// Driver code
-int main()
-{
-    int n;
-    cin>>n;
-    int arr[n];
-
-    for(int i = 0; i < n; i++)
-    {
-        cin>>arr[i];
-    }
-    //int n = sizeof(arr) / sizeof(arr[0]);
-    rearrange(arr, n);
-    printArray(arr, n);
-    return 0;
+#define ll long long 
+int main() {
+	// your code goes here
+	ll t;
+	cin>>t;
+	
+	while(t--)
+	{
+	    ll n; cin>>n;
+	    ll sum = 0;
+	    ll a[n];
+	    
+	    for(ll i = 0; i<n; i++)
+	        cin>>a[i];
+	    for(ll i = 0; i<n; i++)
+	    {
+	        sum += a[i];
+	    }
+	    if(sum % 2 == 0)
+	        cout<<1<<"\n";
+	    else cout<<2<<"\n";
+	}
+	return 0;
 }

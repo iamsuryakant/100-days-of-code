@@ -1,0 +1,20 @@
+h1{
+    color:brown;
+    font-family: sans-serif;
+    /* padding-left: 30px; */
+    margin-left: 30px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+h1:hover{
+    color: red;
+}
+
+body{
+    background-color: aqua;
+}
+
+.vik{
+    color: red;
+}
