@@ -5,17 +5,11 @@ using namespace std;
 
 int main()
 {
-    int idx;
-    cin>>idx;
 
     int n;
     cin>>n;
-
-    int x;
-
-    cin>>x;
-
-    vector<int> v;
+    
+     vector<int> v;
 
     int inp = 0;
 
@@ -24,6 +18,15 @@ int main()
         cin>>inp;
         v.push_back(inp);
     }
+
+    int idx;
+    cin>>idx;
+
+    int x;
+
+    cin>>x;
+
+   
 
     for(int i = v.size();i>idx;i--)
     {

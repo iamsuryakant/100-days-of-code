@@ -80,7 +80,7 @@ int main()
     {
         cin >> c[i].x >> c[i].y >> c[i].y;
     }
-    double c1 = ((n * (n - 1)) / 2), c2 = ((n * (n - 1)) / 2)
+    double c1 = ((n * (n - 1)) / 2), c2 = ((n * (n - 1)) / 2);
 
     calcDist(N, v c1, c2);
     while (Q--)
